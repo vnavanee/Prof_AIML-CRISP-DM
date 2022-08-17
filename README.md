@@ -1,4 +1,4 @@
-This data comes from Kaggle dataset and has approximately 426k rows. This s a used cars dataset with features such as condition of the vehicle, odomter reading, year, make and model of the vehicle and other salient features of a used car.
+This data comes from Kaggle dataset and has approximately 426k rows. This is a used cars dataset with features such as condition of the vehicle, odomter reading, year, make and model of the vehicle and other salient features of a used car.
 
 Used CRISP-DM framework to organize the project and run models.
 
